@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Express , Laravel , React**
+- 💬 Ask me about **Javascript , Express , Laravel , React , Mysql , Postgress , TypeORM , Prisma , Database Design**
 
 - 📫 How to reach me **tesfubirega@gmail.com**
 
